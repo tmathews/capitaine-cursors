@@ -1,4 +1,9 @@
+# Edge Edition
+
+This is a modification which makes the cursor have more "edge".
+
 # Capitaine cursors
+
 This is an x-cursor theme inspired by macOS and based on KDE Breeze.
 The source files were made in Inkscape, and the theme was designed to
 pair well with my icon pack,
